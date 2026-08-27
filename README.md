@@ -20,19 +20,20 @@ Everything below is generated every day from my own monitoring pipeline — the 
   <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 84 releases across 11 projects in the last 28 days, one lane per project.">
 </p>
 
-**84 releases in the last 28 days**, across 11 projects — 272 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**84 releases in the last 28 days**, across 11 projects — 274 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.68.0` | 109 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.3.12` | 56 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.3.12` | 57 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.1.0` | 49 | HTML |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.3.0` | 29 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.4` | 15 | JavaScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.1.4` | 2 | TypeScript |
 | [yGenshinColor](https://github.com/maosensen/yGenshinColor) | `tool` `color` | `v0.19.0` | 2 | TypeScript |
+| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | — | 2 | — |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.31` | 1 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.1.1` | 1 | TypeScript |
 | [ytools](https://github.com/maosensen/ytools) | `tools` | `v0.1.0` | 1 | TypeScript |
@@ -42,7 +43,6 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yGraphify](https://github.com/maosensen/yGraphify) | `tool` `graph` | `v0.1.0` | 1 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v1.4.2` | 1 | TypeScript |
 | [yClip](https://github.com/maosensen/yClip) | `extension` `browser` | `v0.1.3` | 1 | TypeScript |
-| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | — | 1 | — |
 
 ## What it's made of
 
@@ -52,7 +52,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 
 ## On the bench right now
 
-**4 features in progress** across yAnimationPlayground, yGenshinColor, yGraphify and yTemplate.
+**5 features in progress** across yAnimationPlayground, yGenshinColor, yGraphify, yPhotos and yTemplate.
 
 ---
 
