@@ -17,17 +17,17 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 85 releases across 11 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 86 releases across 11 projects in the last 28 days, one lane per project.">
 </p>
 
-**85 releases in the last 28 days**, across 11 projects — 262 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**86 releases in the last 28 days**, across 11 projects — 265 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.66.0` | 105 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.3.12` | 51 | TypeScript |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.67.0` | 107 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.3.12` | 52 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.1.0` | 49 | HTML |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.3.0` | 29 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.4` | 15 | JavaScript |
@@ -46,7 +46,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 64.7 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 64.8 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
