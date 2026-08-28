@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="st sd">
   <title id="st">What the matrix is made of</title>
-  <desc id="sd">Language composition across all 18 repositories by bytes: TypeScript 66.2 percent, HTML 14.0 percent, JavaScript 13.4 percent, Rust 3.7 percent, CSS 1.9 percent, Python 0.4 percent, Shell 0.4 percent. Below, the technology tags used across the matrix.</desc>
+  <desc id="sd">Language composition across all 18 repositories by bytes: TypeScript 66.3 percent, HTML 14.0 percent, JavaScript 13.3 percent, Rust 3.7 percent, CSS 1.9 percent, Python 0.4 percent, Shell 0.4 percent. Below, the technology tags used across the matrix.</desc>
   <rect width="1200" height="380" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
@@ -8,22 +8,22 @@
   <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">by bytes &#183; 18 repos</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
-  <rect x="56.0" y="88" width="718.3" height="18" rx="4" fill="#ef4444"/>
-  <rect x="776.3" y="88" width="150.6" height="18" rx="4" fill="#f97316"/>
-  <rect x="928.9" y="88" width="143.6" height="18" rx="4" fill="#f59e0b"/>
-  <rect x="1074.5" y="88" width="38.0" height="18" rx="4" fill="#eab308"/>
+  <rect x="56.0" y="88" width="719.5" height="18" rx="4" fill="#ef4444"/>
+  <rect x="777.5" y="88" width="150.1" height="18" rx="4" fill="#f97316"/>
+  <rect x="929.6" y="88" width="143.1" height="18" rx="4" fill="#f59e0b"/>
+  <rect x="1074.7" y="88" width="37.9" height="18" rx="4" fill="#eab308"/>
   <rect x="1114.6" y="88" width="19.1" height="18" rx="4" fill="#84cc16"/>
   <rect x="1135.7" y="88" width="2.1" height="18" rx="4" fill="#22c55e"/>
   <rect x="1139.8" y="88" width="2.0" height="18" rx="4" fill="#10b981"/>
   <circle cx="62" cy="146" r="5" fill="#ef4444"/>
   <text x="78" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">TypeScript</text>
-  <text x="296" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">66.2%</text>
+  <text x="296" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">66.3%</text>
   <circle cx="334" cy="146" r="5" fill="#f97316"/>
   <text x="350" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">HTML</text>
   <text x="568" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">14.0%</text>
   <circle cx="606" cy="146" r="5" fill="#f59e0b"/>
   <text x="622" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">JavaScript</text>
-  <text x="840" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">13.4%</text>
+  <text x="840" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">13.3%</text>
   <circle cx="878" cy="146" r="5" fill="#eab308"/>
   <text x="894" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">Rust</text>
   <text x="1112" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">3.7%</text>
