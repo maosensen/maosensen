@@ -20,17 +20,17 @@ Everything below is generated every day from my own monitoring pipeline — the 
   <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 92 releases across 13 projects in the last 28 days, one lane per project.">
 </p>
 
-**92 releases in the last 28 days**, across 13 projects — 268 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**92 releases in the last 28 days**, across 13 projects — 265 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.68.0` | 84 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.3.12` | 63 | TypeScript |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.68.0` | 78 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.3.12` | 61 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.1.0` | 49 | HTML |
+| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.3` | 24 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.1.4` | 20 | TypeScript |
-| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.3` | 19 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.3.0` | 13 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.4` | 8 | JavaScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.1.4` | 2 | TypeScript |
