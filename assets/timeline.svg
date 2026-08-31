@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="tt td">
-  <title id="tt">Release timeline — 104 releases in 28 days</title>
-  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 50, yLookbook: 14, yAnimationPlayground: 11, yReel: 6, yPhotos: 5, yAssets: 4, yGenshinColor: 4, yPulse: 3, yStage: 2, yMotion: 2, yIcon: 1, yTemplate: 1, yClip: 1.</desc>
+  <title id="tt">Release timeline — 105 releases in 28 days</title>
+  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 50, yLookbook: 14, yAnimationPlayground: 11, yReel: 6, yPhotos: 5, yAssets: 4, yPulse: 4, yGenshinColor: 4, yStage: 2, yMotion: 2, yIcon: 1, yTemplate: 1, yClip: 1.</desc>
   <rect width="1200" height="600" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="598.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">Shipping cadence</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">104 releases &#183; last 28 days</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">105 releases &#183; last 28 days</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <line x1="368.0" y1="78" x2="368.0" y2="522" stroke="#ffffff" stroke-opacity="0.06"/>
@@ -47,15 +47,15 @@
   <text x="342" y="268" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">4</text>
 <circle cx="368.0" cy="262" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.28 · 2026-08-04</title></circle><circle cx="741.6" cy="262" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.29 · 2026-08-17</title></circle><circle cx="770.4" cy="262" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.30 · 2026-08-18</title></circle><circle cx="827.9" cy="262" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.31 · 2026-08-20</title></circle>
   <line x1="368" y1="296" x2="1144" y2="296" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="296" r="5" fill="#3b82f6"/>
-  <text x="80" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yGenshinColor</text>
+  <circle cx="64" cy="296" r="5" fill="#ef4444"/>
+  <text x="80" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yPulse</text>
   <text x="342" y="302" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">4</text>
-<circle cx="425.5" cy="296" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.16.1 · 2026-08-06</title></circle><circle cx="483.0" cy="296" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.17.0 · 2026-08-08</title></circle><circle cx="483.0" cy="296" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.18.0 · 2026-08-08</title></circle><circle cx="569.2" cy="296" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.19.0 · 2026-08-11</title></circle>
+<circle cx="425.5" cy="296" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.11 · 2026-08-06</title></circle><circle cx="454.2" cy="296" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.12 · 2026-08-07</title></circle><circle cx="1115.3" cy="296" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.4.0 · 2026-08-30</title></circle><circle cx="1144.0" cy="296" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.4.1 · 2026-08-31</title></circle>
   <line x1="368" y1="330" x2="1144" y2="330" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="330" r="5" fill="#ef4444"/>
-  <text x="80" y="336" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yPulse</text>
-  <text x="342" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">3</text>
-<circle cx="425.5" cy="330" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.11 · 2026-08-06</title></circle><circle cx="454.2" cy="330" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.12 · 2026-08-07</title></circle><circle cx="1115.3" cy="330" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.4.0 · 2026-08-30</title></circle>
+  <circle cx="64" cy="330" r="5" fill="#3b82f6"/>
+  <text x="80" y="336" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yGenshinColor</text>
+  <text x="342" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">4</text>
+<circle cx="425.5" cy="330" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.16.1 · 2026-08-06</title></circle><circle cx="483.0" cy="330" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.17.0 · 2026-08-08</title></circle><circle cx="483.0" cy="330" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.18.0 · 2026-08-08</title></circle><circle cx="569.2" cy="330" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.19.0 · 2026-08-11</title></circle>
   <line x1="368" y1="364" x2="1144" y2="364" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="364" r="5" fill="#6366f1"/>
   <text x="80" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yStage</text>
