@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="tt td">
-  <title id="tt">Release timeline — 117 releases in 28 days</title>
-  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 50, yAnimationPlayground: 21, yLookbook: 16, yReel: 6, yPulse: 5, yPhotos: 5, yGenshinColor: 4, yAssets: 3, yStage: 2, yMotion: 2, yIcon: 1, yTemplate: 1, yClip: 1.</desc>
+  <title id="tt">Release timeline — 118 releases in 28 days</title>
+  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 50, yAnimationPlayground: 21, yLookbook: 16, yReel: 6, yPulse: 5, yPhotos: 5, yGenshinColor: 4, yAssets: 3, yIcon: 2, yStage: 2, yMotion: 2, yTemplate: 1, yClip: 1.</desc>
   <rect width="1200" height="600" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="598.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">Shipping cadence</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">117 releases &#183; last 28 days</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">118 releases &#183; last 28 days</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <line x1="368.0" y1="78" x2="368.0" y2="522" stroke="#ffffff" stroke-opacity="0.06"/>
@@ -57,20 +57,20 @@
   <text x="342" y="336" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">3</text>
 <circle cx="712.9" cy="330" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.29 · 2026-08-17</title></circle><circle cx="741.6" cy="330" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.30 · 2026-08-18</title></circle><circle cx="799.1" cy="330" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.31 · 2026-08-20</title></circle>
   <line x1="368" y1="364" x2="1144" y2="364" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="364" r="5" fill="#6366f1"/>
-  <text x="80" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yStage</text>
+  <circle cx="64" cy="364" r="5" fill="#06b6d4"/>
+  <text x="80" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yIcon</text>
   <text x="342" y="370" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">2</text>
-<circle cx="396.7" cy="364" r="6" fill="#6366f1" fill-opacity="0.9"><title>yStage v1.4.2 · 2026-08-06</title></circle><circle cx="1057.8" cy="364" r="6" fill="#6366f1" fill-opacity="0.9"><title>yStage v2.0.0 · 2026-08-29</title></circle>
+<circle cx="396.7" cy="364" r="6" fill="#06b6d4" fill-opacity="0.9"><title>yIcon v1.1.1 · 2026-08-06</title></circle><circle cx="1115.3" cy="364" r="6" fill="#06b6d4" fill-opacity="0.9"><title>yIcon v2.0.0 · 2026-08-31</title></circle>
   <line x1="368" y1="398" x2="1144" y2="398" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="398" r="5" fill="#ec4899"/>
-  <text x="80" y="404" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yMotion</text>
+  <circle cx="64" cy="398" r="5" fill="#6366f1"/>
+  <text x="80" y="404" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yStage</text>
   <text x="342" y="404" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">2</text>
-<circle cx="1000.3" cy="398" r="6" fill="#ec4899" fill-opacity="0.9"><title>yMotion v0.1.0 · 2026-08-27</title></circle><circle cx="1057.8" cy="398" r="6" fill="#ec4899" fill-opacity="0.9"><title>yMotion v0.2.0 · 2026-08-29</title></circle>
+<circle cx="396.7" cy="398" r="6" fill="#6366f1" fill-opacity="0.9"><title>yStage v1.4.2 · 2026-08-06</title></circle><circle cx="1057.8" cy="398" r="6" fill="#6366f1" fill-opacity="0.9"><title>yStage v2.0.0 · 2026-08-29</title></circle>
   <line x1="368" y1="432" x2="1144" y2="432" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="432" r="5" fill="#06b6d4"/>
-  <text x="80" y="438" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yIcon</text>
-  <text x="342" y="438" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">1</text>
-<circle cx="396.7" cy="432" r="6" fill="#06b6d4" fill-opacity="0.9"><title>yIcon v1.1.1 · 2026-08-06</title></circle>
+  <circle cx="64" cy="432" r="5" fill="#ec4899"/>
+  <text x="80" y="438" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yMotion</text>
+  <text x="342" y="438" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">2</text>
+<circle cx="1000.3" cy="432" r="6" fill="#ec4899" fill-opacity="0.9"><title>yMotion v0.1.0 · 2026-08-27</title></circle><circle cx="1057.8" cy="432" r="6" fill="#ec4899" fill-opacity="0.9"><title>yMotion v0.2.0 · 2026-08-29</title></circle>
   <line x1="368" y1="466" x2="1144" y2="466" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="466" r="5" fill="#eab308"/>
   <text x="80" y="472" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yTemplate</text>
