@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="tt td">
-  <title id="tt">Release timeline — 123 releases in 28 days</title>
-  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 52, yAnimationPlayground: 23, yLookbook: 16, yPulse: 6, yReel: 6, yPhotos: 5, yGenshinColor: 4, yAssets: 3, yIcon: 2, yStage: 2, yMotion: 2, yTemplate: 1, yClip: 1.</desc>
+  <title id="tt">Release timeline — 124 releases in 28 days</title>
+  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 52, yAnimationPlayground: 23, yLookbook: 16, yPulse: 7, yReel: 6, yPhotos: 5, yGenshinColor: 4, yAssets: 3, yIcon: 2, yStage: 2, yMotion: 2, yTemplate: 1, yClip: 1.</desc>
   <rect width="1200" height="600" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="598.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">Shipping cadence</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">123 releases &#183; last 28 days</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">124 releases &#183; last 28 days</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <line x1="368.0" y1="78" x2="368.0" y2="522" stroke="#ffffff" stroke-opacity="0.06"/>
@@ -34,8 +34,8 @@
   <line x1="368" y1="194" x2="1144" y2="194" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="194" r="5" fill="#ef4444"/>
   <text x="80" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yPulse</text>
-  <text x="342" y="200" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">6</text>
-<circle cx="396.7" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.11 · 2026-08-06</title></circle><circle cx="425.5" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.12 · 2026-08-07</title></circle><circle cx="1086.5" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.4.0 · 2026-08-30</title></circle><circle cx="1115.3" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.4.1 · 2026-08-31</title></circle><circle cx="1115.3" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.5.0 · 2026-08-31</title></circle><circle cx="1115.3" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.5.1 · 2026-08-31</title></circle>
+  <text x="342" y="200" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">7</text>
+<circle cx="396.7" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.11 · 2026-08-06</title></circle><circle cx="425.5" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.3.12 · 2026-08-07</title></circle><circle cx="1086.5" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.4.0 · 2026-08-30</title></circle><circle cx="1115.3" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.4.1 · 2026-08-31</title></circle><circle cx="1115.3" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.5.0 · 2026-08-31</title></circle><circle cx="1115.3" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.5.1 · 2026-08-31</title></circle><circle cx="1144.0" cy="194" r="6" fill="#ef4444" fill-opacity="0.9"><title>yPulse v0.5.2 · 2026-09-01</title></circle>
   <line x1="368" y1="228" x2="1144" y2="228" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="228" r="5" fill="#a855f7"/>
   <text x="80" y="234" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yReel</text>
