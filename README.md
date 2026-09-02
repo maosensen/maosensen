@@ -17,27 +17,27 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 145 releases across 13 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 146 releases across 13 projects in the last 28 days, one lane per project.">
 </p>
 
-**145 releases in the last 28 days**, across 13 projects — 490 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**146 releases in the last 28 days**, across 13 projects — 497 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.4` | 144 | TypeScript |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.16` | 82 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.4` | 145 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.17` | 88 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.19` | 76 | JavaScript |
-| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.75.0` | 44 | TypeScript |
-| [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.2.0` | 37 | HTML |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.75.0` | 42 | TypeScript |
+| [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.2.0` | 35 | HTML |
 | [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.4` | 28 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.4.0` | 24 | TypeScript |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v2.0.0` | 18 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.1` | 15 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.0` | 10 | TypeScript |
+| [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.32` | 5 | TypeScript |
 | [yGenshinColor](https://github.com/maosensen/yGenshinColor) | `tool` `color` | `v0.19.0` | 5 | TypeScript |
-| [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.31` | 1 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.1.1` | 1 | TypeScript |
 | [ytools](https://github.com/maosensen/ytools) | `tools` | `v0.1.0` | 1 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.1.0` | 1 | TypeScript |
