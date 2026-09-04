@@ -17,21 +17,21 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 149 releases across 13 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 150 releases across 13 projects in the last 28 days, one lane per project.">
 </p>
 
-**149 releases in the last 28 days**, across 13 projects — 506 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**150 releases in the last 28 days**, across 13 projects — 508 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.7` | 163 | TypeScript |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.19` | 100 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.7` | 164 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.20` | 103 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.19` | 74 | JavaScript |
-| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.77.0` | 51 | TypeScript |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.77.0` | 50 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.4.1` | 29 | TypeScript |
-| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.5` | 24 | TypeScript |
+| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.5` | 23 | TypeScript |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v2.0.1` | 19 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.3` | 13 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.34` | 9 | TypeScript |
@@ -47,7 +47,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 66.7 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 66.8 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
