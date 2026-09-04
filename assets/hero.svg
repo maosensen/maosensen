@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
   <title id="t">maosensen — I build a small matrix of tools, and I keep the receipts.</title>
-  <desc id="d">A dark panel. The name, a one-line tagline, and three figures generated from this account's own monitoring pipeline: 18 projects, 288 releases, 642 shipped features.</desc>
+  <desc id="d">A dark panel. The name, a one-line tagline, and three figures generated from this account's own monitoring pipeline: 17 projects, 288 releases, 642 shipped features.</desc>
   <defs>
     <linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.05"/>
@@ -20,7 +20,7 @@
   <text x="56" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">generated 2026-09-04 from my own pipeline &#183; every figure has a source in data/</text>
 
     <rect x="56" y="252" width="178" height="52" rx="12" fill="#ffffff" fill-opacity="0.045"/>
-    <text x="76" y="286" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#fafafa">18</text>
+    <text x="76" y="286" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#fafafa">17</text>
     <text x="122" y="286" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">projects</text>
     <rect x="250" y="252" width="204" height="52" rx="12" fill="#ffffff" fill-opacity="0.045"/>
     <text x="270" y="286" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#fafafa">288</text>
