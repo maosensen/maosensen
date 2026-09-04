@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="tt td">
-  <title id="tt">Release timeline — 146 releases in 28 days</title>
-  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 51, yAnimationPlayground: 26, yLookbook: 25, yPulse: 10, yReel: 8, yPhotos: 6, yStage: 6, yAssets: 5, yGenshinColor: 3, yMotion: 2, yIcon: 2, yClip: 1, yTemplate: 1.</desc>
+  <title id="tt">Release timeline — 147 releases in 28 days</title>
+  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yBlocks: 51, yAnimationPlayground: 26, yLookbook: 25, yPulse: 10, yReel: 9, yPhotos: 6, yStage: 6, yAssets: 5, yGenshinColor: 3, yMotion: 2, yIcon: 2, yClip: 1, yTemplate: 1.</desc>
   <rect width="1200" height="600" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="598.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">Shipping cadence</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">146 releases &#183; last 28 days</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">147 releases &#183; last 28 days</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <line x1="368.0" y1="78" x2="368.0" y2="522" stroke="#ffffff" stroke-opacity="0.06"/>
@@ -39,8 +39,8 @@
   <line x1="368" y1="228" x2="1144" y2="228" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="228" r="5" fill="#8b5cf6"/>
   <text x="80" y="234" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yReel</text>
-  <text x="342" y="234" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">8</text>
-<circle cx="741.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.1.1 · 2026-08-21</title></circle><circle cx="741.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.2.0 · 2026-08-21</title></circle><circle cx="856.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.2.1 · 2026-08-25</title></circle><circle cx="856.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.2.2 · 2026-08-25</title></circle><circle cx="914.1" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.3.0 · 2026-08-27</title></circle><circle cx="1057.8" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.4.0 · 2026-09-01</title></circle><circle cx="1086.5" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.4.1 · 2026-09-02</title></circle><circle cx="1115.3" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.4.2 · 2026-09-03</title></circle>
+  <text x="342" y="234" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">9</text>
+<circle cx="741.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.1.1 · 2026-08-21</title></circle><circle cx="741.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.2.0 · 2026-08-21</title></circle><circle cx="856.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.2.1 · 2026-08-25</title></circle><circle cx="856.6" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.2.2 · 2026-08-25</title></circle><circle cx="914.1" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.3.0 · 2026-08-27</title></circle><circle cx="1057.8" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.4.0 · 2026-09-01</title></circle><circle cx="1086.5" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.4.1 · 2026-09-02</title></circle><circle cx="1115.3" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.4.2 · 2026-09-03</title></circle><circle cx="1144.0" cy="228" r="6" fill="#8b5cf6" fill-opacity="0.9"><title>yReel v0.4.3 · 2026-09-04</title></circle>
   <line x1="368" y1="262" x2="1144" y2="262" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="262" r="5" fill="#ec4899"/>
   <text x="80" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yPhotos</text>
