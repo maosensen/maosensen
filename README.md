@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 157 releases across 14 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 158 releases across 14 projects in the last 28 days, one lane per project.">
 </p>
 
-**157 releases in the last 28 days**, across 14 projects — 486 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**158 releases in the last 28 days**, across 14 projects — 491 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -32,8 +32,8 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.80.0` | 58 | TypeScript |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.1.0` | 30 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.4.1` | 23 | TypeScript |
+| [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.2` | 22 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.1` | 19 | TypeScript |
-| [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.1` | 17 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.4` | 16 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.34` | 7 | TypeScript |
 | [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.5` | 6 | TypeScript |
@@ -47,7 +47,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 67.1 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 67.2 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
