@@ -17,21 +17,21 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 163 releases across 14 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 164 releases across 14 projects in the last 28 days, one lane per project.">
 </p>
 
-**163 releases in the last 28 days**, across 14 projects — 511 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**164 releases in the last 28 days**, across 14 projects — 516 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.10` | 150 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.10` | 151 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.21` | 88 | HTML |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.80.0` | 58 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.21` | 57 | TypeScript |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.0` | 38 | TypeScript |
-| [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.5` | 32 | TypeScript |
+| [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.6` | 36 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.4.1` | 23 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.1` | 19 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.4` | 16 | TypeScript |
