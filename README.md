@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 160 releases across 14 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 161 releases across 14 projects in the last 28 days, one lane per project.">
 </p>
 
-**160 releases in the last 28 days**, across 14 projects — 498 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**161 releases in the last 28 days**, across 14 projects — 500 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -28,10 +28,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 |---|---|---|---|---|
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.10` | 148 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.21` | 88 | HTML |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.21` | 60 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.80.0` | 58 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.21` | 58 | TypeScript |
+| [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.4` | 30 | TypeScript |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.1.0` | 30 | TypeScript |
-| [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.3` | 26 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.4.1` | 23 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.1` | 19 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.4` | 16 | TypeScript |
