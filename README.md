@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 164 releases across 14 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 165 releases across 14 projects in the last 28 days, one lane per project.">
 </p>
 
-**164 releases in the last 28 days**, across 14 projects — 515 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**165 releases in the last 28 days**, across 14 projects — 520 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -36,7 +36,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.1` | 19 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.4` | 16 | TypeScript |
 | [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.6` | 16 | TypeScript |
-| [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.34` | 7 | TypeScript |
+| [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.35` | 12 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.2.0` | 2 | HTML |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.1.1` | 1 | TypeScript |
 | [ytools](https://github.com/maosensen/ytools) | `tools` | `v0.1.0` | 1 | TypeScript |
