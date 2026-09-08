@@ -17,21 +17,21 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 183 releases across 13 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 184 releases across 13 projects in the last 28 days, one lane per project.">
 </p>
 
-**183 releases in the last 28 days**, across 13 projects — 431 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**184 releases in the last 28 days**, across 13 projects — 435 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.12` | 126 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.12` | 127 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.84.1` | 62 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.24` | 52 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.9` | 44 | TypeScript |
+| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.25` | 36 | HTML |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.4` | 34 | TypeScript |
-| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.24` | 33 | HTML |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.4.1` | 19 | TypeScript |
 | [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.6` | 16 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.36` | 14 | TypeScript |
