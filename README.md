@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 167 releases across 13 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 168 releases across 13 projects in the last 28 days, one lane per project.">
 </p>
 
-**167 releases in the last 28 days**, across 13 projects — 434 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**168 releases in the last 28 days**, across 13 projects — 440 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -31,7 +31,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.21` | 45 | HTML |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.21` | 44 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.8` | 41 | TypeScript |
-| [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.0` | 24 | TypeScript |
+| [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.1` | 30 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.4.1` | 23 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.1` | 19 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.4` | 16 | TypeScript |
