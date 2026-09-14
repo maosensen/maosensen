@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 212 releases across 15 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 213 releases across 15 projects in the last 28 days, one lane per project.">
 </p>
 
-**212 releases in the last 28 days**, across 15 projects — 300 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**213 releases in the last 28 days**, across 15 projects — 302 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -33,7 +33,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yCollections](https://github.com/maosensen/yCollections) | `tool` `knowledge` | `v0.1.6` | 33 | TypeScript |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.6` | 19 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.10` | 10 | TypeScript |
-| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.7` | 6 | TypeScript |
+| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.8` | 8 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.2` | 4 | TypeScript |
 | [yGenshinColor](https://github.com/maosensen/yGenshinColor) | `tool` `color` | `v0.20.0` | 4 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.3.0` | 4 | HTML |
