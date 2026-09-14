@@ -17,16 +17,16 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 216 releases across 15 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 217 releases across 15 projects in the last 28 days, one lane per project.">
 </p>
 
-**216 releases in the last 28 days**, across 15 projects — 315 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**217 releases in the last 28 days**, across 15 projects — 319 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.14` | 85 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.14` | 86 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.32` | 58 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.34` | 43 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.84.6` | 41 | TypeScript |
@@ -34,7 +34,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.6` | 17 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.10` | 10 | TypeScript |
 | [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.8` | 8 | TypeScript |
-| [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.2` | 4 | TypeScript |
+| [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.3` | 7 | TypeScript |
 | [yGenshinColor](https://github.com/maosensen/yGenshinColor) | `tool` `color` | `v0.20.0` | 4 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.3.0` | 4 | HTML |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.37` | 2 | TypeScript |
