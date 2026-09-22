@@ -20,7 +20,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
   <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 260 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**260 releases in the last 28 days**, across 17 projects — 425 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**260 releases in the last 28 days**, across 17 projects — 424 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -28,7 +28,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 |---|---|---|---|---|
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.0` | 121 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.21` | 95 | TypeScript |
-| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.45` | 95 | TypeScript |
+| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.45` | 94 | TypeScript |
 | [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.13.1` | 50 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.42` | 36 | HTML |
 | [yCollections](https://github.com/maosensen/yCollections) | `tool` `knowledge` | `v0.1.10` | 10 | TypeScript |
