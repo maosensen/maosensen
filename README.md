@@ -17,20 +17,20 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 255 releases across 17 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 256 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**255 releases in the last 28 days**, across 17 projects — 222 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**256 releases in the last 28 days**, across 17 projects — 214 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.21` | 61 | TypeScript |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.46` | 51 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.47` | 53 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.0` | 45 | TypeScript |
-| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.45` | 33 | TypeScript |
-| [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.13.1` | 20 | TypeScript |
+| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.45` | 31 | TypeScript |
+| [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.13.1` | 12 | TypeScript |
 | [yListen](https://github.com/maosensen/yListen) | `desktop` `swift` `macos` | `v0.1.2` | 10 | Swift |
 | [yCollections](https://github.com/maosensen/yCollections) | `tool` `knowledge` | `v0.1.10` | 2 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
