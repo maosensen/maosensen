@@ -17,20 +17,20 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 257 releases across 17 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 258 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**257 releases in the last 28 days**, across 17 projects — 180 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**258 releases in the last 28 days**, across 17 projects — 175 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.50` | 62 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.22` | 51 | TypeScript |
-| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.50` | 37 | TypeScript |
-| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.0` | 25 | TypeScript |
-| [yListen](https://github.com/maosensen/yListen) | `desktop` `swift` `macos` | `v0.1.2` | 5 | Swift |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.51` | 66 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.22` | 50 | TypeScript |
+| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.50` | 35 | TypeScript |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.0` | 22 | TypeScript |
+| [yListen](https://github.com/maosensen/yListen) | `desktop` `swift` `macos` | `v0.1.2` | 2 | Swift |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.1.2` | 0 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.4` | 0 | TypeScript |
