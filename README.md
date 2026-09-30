@@ -17,16 +17,16 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 221 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 222 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**221 releases in the last 28 days**, across 18 projects — 231 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**222 releases in the last 28 days**, across 18 projects — 233 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.68` | 140 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.69` | 142 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.24` | 56 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.50` | 21 | TypeScript |
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.1` | 8 | TypeScript |
@@ -51,7 +51,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 67.7 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 67.8 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
