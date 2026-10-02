@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 770" role="img" aria-labelledby="tt td">
-  <title id="tt">Release timeline — 228 releases in 28 days</title>
-  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yLookbook: 64, yBlocks: 38, yAnimationPlayground: 30, yPulse: 17, yCrmTemplate: 14, yApis: 12, yCollections: 11, yIcon: 10, yAtlas: 9, yPhotos: 5, yTemplate: 4, yAssets: 4, yGenshinColor: 2, yDesktopTemplate: 2, yListen: 2, yIsobath: 2, yMotion: 1, yStage: 1.</desc>
+  <title id="tt">Release timeline — 229 releases in 28 days</title>
+  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yLookbook: 64, yBlocks: 38, yAnimationPlayground: 30, yPulse: 17, yCrmTemplate: 14, yApis: 12, yCollections: 11, yIcon: 10, yAtlas: 10, yPhotos: 5, yTemplate: 4, yAssets: 4, yGenshinColor: 2, yDesktopTemplate: 2, yListen: 2, yIsobath: 2, yMotion: 1, yStage: 1.</desc>
   <rect width="1200" height="770" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="768.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">Shipping cadence</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">228 releases &#183; last 28 days</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">229 releases &#183; last 28 days</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <line x1="368.0" y1="78" x2="368.0" y2="692" stroke="#ffffff" stroke-opacity="0.06"/>
@@ -59,8 +59,8 @@
   <line x1="368" y1="364" x2="1144" y2="364" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="364" r="5" fill="#8a8a93"/>
   <text x="80" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yAtlas</text>
-  <text x="342" y="370" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">9</text>
-<circle cx="1057.8" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.0 · 2026-09-29</title></circle><circle cx="1057.8" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.1 · 2026-09-29</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.2 · 2026-09-30</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.3 · 2026-09-30</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.4 · 2026-09-30</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.5 · 2026-09-30</title></circle><circle cx="1115.3" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.6 · 2026-10-01</title></circle><circle cx="1115.3" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.7 · 2026-10-01</title></circle><circle cx="1144.0" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.8 · 2026-10-02</title></circle>
+  <text x="342" y="370" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">10</text>
+<circle cx="1057.8" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.0 · 2026-09-29</title></circle><circle cx="1057.8" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.1 · 2026-09-29</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.2 · 2026-09-30</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.3 · 2026-09-30</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.4 · 2026-09-30</title></circle><circle cx="1086.5" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.5 · 2026-09-30</title></circle><circle cx="1115.3" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.6 · 2026-10-01</title></circle><circle cx="1115.3" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.7 · 2026-10-01</title></circle><circle cx="1144.0" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.8 · 2026-10-02</title></circle><circle cx="1144.0" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAtlas v0.1.9 · 2026-10-02</title></circle>
   <line x1="368" y1="398" x2="1144" y2="398" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="398" r="5" fill="#ec4899"/>
   <text x="80" y="404" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yPhotos</text>
