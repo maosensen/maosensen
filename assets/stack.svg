@@ -9,8 +9,8 @@
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <rect x="56.0" y="88" width="750.7" height="18" rx="4" fill="#ef4444"/>
-  <rect x="808.7" y="88" width="127.2" height="18" rx="4" fill="#f97316"/>
-  <rect x="937.8" y="88" width="117.5" height="18" rx="4" fill="#f59e0b"/>
+  <rect x="808.7" y="88" width="127.1" height="18" rx="4" fill="#f97316"/>
+  <rect x="937.9" y="88" width="117.5" height="18" rx="4" fill="#f59e0b"/>
   <rect x="1057.4" y="88" width="62.2" height="18" rx="4" fill="#eab308"/>
   <rect x="1121.5" y="88" width="11.6" height="18" rx="4" fill="#84cc16"/>
   <rect x="1135.2" y="88" width="3.7" height="18" rx="4" fill="#22c55e"/>
