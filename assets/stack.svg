@@ -8,9 +8,9 @@
   <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">by bytes &#183; 24 repos</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
-  <rect x="56.0" y="88" width="754.8" height="18" rx="4" fill="#ef4444"/>
-  <rect x="812.8" y="88" width="123.4" height="18" rx="4" fill="#f97316"/>
-  <rect x="938.2" y="88" width="118.6" height="18" rx="4" fill="#f59e0b"/>
+  <rect x="56.0" y="88" width="754.7" height="18" rx="4" fill="#ef4444"/>
+  <rect x="812.7" y="88" width="123.4" height="18" rx="4" fill="#f97316"/>
+  <rect x="938.1" y="88" width="118.6" height="18" rx="4" fill="#f59e0b"/>
   <rect x="1058.7" y="88" width="61.5" height="18" rx="4" fill="#eab308"/>
   <rect x="1122.2" y="88" width="11.2" height="18" rx="4" fill="#84cc16"/>
   <rect x="1135.4" y="88" width="3.6" height="18" rx="4" fill="#22c55e"/>
