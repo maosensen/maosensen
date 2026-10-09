@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 906" role="img" aria-labelledby="tt td">
-  <title id="tt">Release timeline — 223 releases in 28 days</title>
-  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yLookbook: 74, yBlocks: 36, yPulse: 27, yAtlas: 22, yAnimationPlayground: 19, yCrmTemplate: 12, yCollections: 6, yPhotos: 4, yTemplate: 3, yApis: 2, yDesktopTemplate: 2, yListen: 2, yStage: 2, yIsobath: 2, yPlotter: 2, yAgentKit: 2, yMotion: 1, yIcon: 1, yGenshinColor: 1, yAssets: 1, yReel: 1, yDiorama: 1.</desc>
+  <title id="tt">Release timeline — 224 releases in 28 days</title>
+  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yLookbook: 74, yBlocks: 36, yPulse: 27, yAtlas: 22, yAnimationPlayground: 19, yCrmTemplate: 12, yCollections: 6, yPhotos: 4, yTemplate: 3, yApis: 2, yDesktopTemplate: 2, yListen: 2, yStage: 2, yIsobath: 2, yPlotter: 2, yAgentKit: 2, yDiorama: 2, yMotion: 1, yIcon: 1, yGenshinColor: 1, yAssets: 1, yReel: 1.</desc>
   <rect width="1200" height="906" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="904.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">Shipping cadence</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">223 releases &#183; last 28 days</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">224 releases &#183; last 28 days</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <line x1="368.0" y1="78" x2="368.0" y2="828" stroke="#ffffff" stroke-opacity="0.06"/>
@@ -97,35 +97,35 @@
   <text x="342" y="608" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">2</text>
 <circle cx="1000.3" cy="602" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.0.1 · 2026-10-04</title></circle><circle cx="1000.3" cy="602" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.1.0 · 2026-10-04</title></circle>
   <line x1="368" y1="636" x2="1144" y2="636" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="636" r="5" fill="#ec4899"/>
-  <text x="80" y="642" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yMotion</text>
-  <text x="342" y="642" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">1</text>
-<circle cx="368.0" cy="636" r="6" fill="#ec4899" fill-opacity="0.9"><title>yMotion v0.3.0 · 2026-09-12</title></circle>
+  <circle cx="64" cy="636" r="5" fill="#84cc16"/>
+  <text x="80" y="642" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yDiorama</text>
+  <text x="342" y="642" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">2</text>
+<circle cx="1144.0" cy="636" r="6" fill="#84cc16" fill-opacity="0.9"><title>yDiorama v0.1.0 · 2026-10-09</title></circle><circle cx="1144.0" cy="636" r="6" fill="#84cc16" fill-opacity="0.9"><title>yDiorama v0.1.4 · 2026-10-09</title></circle>
   <line x1="368" y1="670" x2="1144" y2="670" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="670" r="5" fill="#0ea5e9"/>
-  <text x="80" y="676" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yIcon</text>
+  <circle cx="64" cy="670" r="5" fill="#ec4899"/>
+  <text x="80" y="676" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yMotion</text>
   <text x="342" y="676" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">1</text>
-<circle cx="425.5" cy="670" r="6" fill="#0ea5e9" fill-opacity="0.9"><title>yIcon v3.2.7 · 2026-09-14</title></circle>
+<circle cx="368.0" cy="670" r="6" fill="#ec4899" fill-opacity="0.9"><title>yMotion v0.3.0 · 2026-09-12</title></circle>
   <line x1="368" y1="704" x2="1144" y2="704" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="704" r="5" fill="#3b82f6"/>
-  <text x="80" y="710" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yGenshinColor</text>
+  <circle cx="64" cy="704" r="5" fill="#0ea5e9"/>
+  <text x="80" y="710" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yIcon</text>
   <text x="342" y="710" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">1</text>
-<circle cx="425.5" cy="704" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.20.1 · 2026-09-14</title></circle>
+<circle cx="425.5" cy="704" r="6" fill="#0ea5e9" fill-opacity="0.9"><title>yIcon v3.2.7 · 2026-09-14</title></circle>
   <line x1="368" y1="738" x2="1144" y2="738" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="738" r="5" fill="#f97316"/>
-  <text x="80" y="744" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yAssets</text>
+  <circle cx="64" cy="738" r="5" fill="#3b82f6"/>
+  <text x="80" y="744" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yGenshinColor</text>
   <text x="342" y="744" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">1</text>
-<circle cx="425.5" cy="738" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.38 · 2026-09-14</title></circle>
+<circle cx="425.5" cy="738" r="6" fill="#3b82f6" fill-opacity="0.9"><title>yGenshinColor v0.20.1 · 2026-09-14</title></circle>
   <line x1="368" y1="772" x2="1144" y2="772" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="772" r="5" fill="#a855f7"/>
-  <text x="80" y="778" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yReel</text>
+  <circle cx="64" cy="772" r="5" fill="#f97316"/>
+  <text x="80" y="778" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yAssets</text>
   <text x="342" y="778" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">1</text>
-<circle cx="1115.3" cy="772" r="6" fill="#a855f7" fill-opacity="0.9"><title>yReel v0.4.5 · 2026-10-08</title></circle>
+<circle cx="425.5" cy="772" r="6" fill="#f97316" fill-opacity="0.9"><title>yAssets v0.1.38 · 2026-09-14</title></circle>
   <line x1="368" y1="806" x2="1144" y2="806" stroke="#ffffff" stroke-opacity="0.05"/>
-  <circle cx="64" cy="806" r="5" fill="#84cc16"/>
-  <text x="80" y="812" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yDiorama</text>
+  <circle cx="64" cy="806" r="5" fill="#a855f7"/>
+  <text x="80" y="812" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yReel</text>
   <text x="342" y="812" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">1</text>
-<circle cx="1144.0" cy="806" r="6" fill="#84cc16" fill-opacity="0.9"><title>yDiorama v0.1.0 · 2026-10-09</title></circle>
+<circle cx="1115.3" cy="806" r="6" fill="#a855f7" fill-opacity="0.9"><title>yReel v0.4.5 · 2026-10-08</title></circle>
 
   <text x="56" y="882" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#6e6e77">one dot = one published release &#183; lane order by count &#183; hue matches the project across every surface</text>
 </svg>
