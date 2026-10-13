@@ -17,19 +17,19 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 191 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 192 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**191 releases in the last 28 days**, across 18 projects — 361 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**192 releases in the last 28 days**, across 18 projects — 364 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.110` | 113 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.42` | 105 | TypeScript |
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.22` | 105 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.42` | 104 | TypeScript |
-| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.9.0` | 19 | TypeScript |
+| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.10.0` | 21 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.8` | 10 | TypeScript |
 | [yDiorama](https://github.com/maosensen/yDiorama) | `library` `film` | `v0.1.4` | 8 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.5` | 2 | TypeScript |
