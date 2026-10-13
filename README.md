@@ -17,21 +17,22 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 196 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 197 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**196 releases in the last 28 days**, across 18 projects — 374 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**197 releases in the last 28 days**, across 18 projects — 376 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.110` | 113 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.43` | 112 | TypeScript |
-| [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.22` | 100 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.43` | 113 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.110` | 112 | TypeScript |
+| [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.22` | 99 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.12.0` | 25 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.9` | 14 | TypeScript |
 | [yDiorama](https://github.com/maosensen/yDiorama) | `library` `film` | `v0.1.4` | 8 | TypeScript |
+| [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.1` | 3 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.5` | 2 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
@@ -50,7 +51,6 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yListen](https://github.com/maosensen/yListen) | `desktop` `swift` `macos` | `v0.1.2` | 0 | Swift |
 | [yIsobath](https://github.com/maosensen/yIsobath) | `desktop` `tauri` | `v0.1.1` | 0 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `library` `film` | `v0.1.2` | 0 | TypeScript |
-| [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.0` | 0 | TypeScript |
 
 ## What it's made of
 
