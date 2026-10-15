@@ -20,13 +20,13 @@ Everything below is generated every day from my own monitoring pipeline — the 
   <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 189 releases across 15 projects in the last 28 days, one lane per project.">
 </p>
 
-**189 releases in the last 28 days**, across 15 projects — 336 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**189 releases in the last 28 days**, across 15 projects — 337 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.48` | 127 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.48` | 128 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.118` | 86 | TypeScript |
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.25` | 65 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.13.0` | 29 | TypeScript |
