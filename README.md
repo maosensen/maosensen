@@ -17,20 +17,20 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 191 releases across 15 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 192 releases across 15 projects in the last 28 days, one lane per project.">
 </p>
 
-**191 releases in the last 28 days**, across 15 projects — 354 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**192 releases in the last 28 days**, across 15 projects — 359 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.49` | 142 | TypeScript |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.118` | 85 | TypeScript |
-| [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.25` | 67 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.49` | 143 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.118` | 87 | TypeScript |
+| [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.26` | 67 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.13.0` | 29 | TypeScript |
-| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.10` | 9 | TypeScript |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.10` | 11 | TypeScript |
 | [yDiorama](https://github.com/maosensen/yDiorama) | `library` `film` | `v0.1.4` | 8 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.6` | 5 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.2` | 5 | TypeScript |
