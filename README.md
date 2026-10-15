@@ -17,24 +17,24 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 196 releases across 15 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 197 releases across 15 projects in the last 28 days, one lane per project.">
 </p>
 
-**196 releases in the last 28 days**, across 15 projects — 359 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**197 releases in the last 28 days**, across 15 projects — 356 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.49` | 145 | TypeScript |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.121` | 87 | TypeScript |
-| [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.26` | 66 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.50` | 147 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.121` | 84 | TypeScript |
+| [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.26` | 65 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.13.0` | 29 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.11` | 11 | TypeScript |
 | [yDiorama](https://github.com/maosensen/yDiorama) | `library` `film` | `v0.1.4` | 8 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.6` | 5 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.2` | 5 | TypeScript |
-| [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.6` | 3 | TypeScript |
+| [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.6` | 2 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
 | [ytools](https://github.com/maosensen/ytools) | `tools` | `v0.1.0` | 0 | TypeScript |
