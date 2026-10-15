@@ -4,12 +4,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="28">
+  <a href="https://catforest.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="28"></a>
   <a href="https://x.com/catforestai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28"></a>
-  <img src="https://img.shields.io/badge/RED-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="RED" height="28">
+  <a href="https://www.xiaohongshu.com/user/profile/5a04e952b1da140871adc011"><img src="https://img.shields.io/badge/RED-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="RED" height="28"></a>
   <a href="https://space.bilibili.com/10681170"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" height="28"></a>
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="28">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="28">
+  <a href="https://www.douyin.com/user/MS4wLjABAAAARMdrvnWst3FdxaDl59HSTYbF1M3KBdDPvmN8udwUJ_c"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="28"></a>
+  <a href="https://www.youtube.com/@catforestai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="28"></a>
 </p>
 
 Everything below is generated every day from my own monitoring pipeline — the same one that watches these repositories. No third-party stat services, no numbers I can't show you the source of.
@@ -17,24 +17,24 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 189 releases across 15 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 191 releases across 15 projects in the last 28 days, one lane per project.">
 </p>
 
-**189 releases in the last 28 days**, across 15 projects — 337 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**191 releases in the last 28 days**, across 15 projects — 351 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.48` | 128 | TypeScript |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.118` | 86 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.49` | 141 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.118` | 85 | TypeScript |
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.25` | 65 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.13.0` | 29 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.10` | 9 | TypeScript |
 | [yDiorama](https://github.com/maosensen/yDiorama) | `library` `film` | `v0.1.4` | 8 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.6` | 5 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.2` | 5 | TypeScript |
-| [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.5` | 2 | TypeScript |
+| [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.6` | 4 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
 | [ytools](https://github.com/maosensen/ytools) | `tools` | `v0.1.0` | 0 | TypeScript |
@@ -60,7 +60,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 
 ## On the bench right now
 
-**12 features in progress** across yAnimationPlayground, yApis, yAtlas, yGenshinColor, yGraphify, yLookbook and yTemplate.
+**13 features in progress** across yAnimationPlayground, yApis, yAtlas, yGenshinColor, yGraphify, yLookbook, yPulse and yTemplate.
 
 ---
 
