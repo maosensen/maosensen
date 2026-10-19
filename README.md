@@ -17,18 +17,18 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 207 releases across 15 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 208 releases across 15 projects in the last 28 days, one lane per project.">
 </p>
 
-**207 releases in the last 28 days**, across 15 projects — 662 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**208 releases in the last 28 days**, across 15 projects — 666 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.31` | 321 | TypeScript |
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.140` | 150 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.53` | 137 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.141` | 153 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.53` | 138 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.14.0` | 27 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.12` | 13 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.6` | 5 | TypeScript |
@@ -61,7 +61,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 
 ## On the bench right now
 
-**22 features in progress** across yAnimationPlayground, yApis, yAtlas, yGenshinColor, yGraphify, yLookbook and yTemplate.
+**23 features in progress** across yAnimationPlayground, yApis, yAtlas, yGenshinColor, yGraphify, yLookbook and yTemplate.
 
 ---
 
