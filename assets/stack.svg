@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="st sd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="st sd">
   <title id="st">What the matrix is made of</title>
-  <desc id="sd">Language composition across all 27 repositories by bytes: TypeScript 72.7 percent, JavaScript 11.3 percent, HTML 8.1 percent, CSS 6.3 percent, Rust 0.9 percent, Python 0.4 percent, MDX 0.1 percent, Swift 0.1 percent. Below, the technology tags used across the matrix.</desc>
-  <rect width="1200" height="380" rx="18" fill="#0c0c0f"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+  <desc id="sd">Language composition across all 28 repositories by bytes: TypeScript 72.7 percent, JavaScript 11.3 percent, HTML 8.1 percent, CSS 6.3 percent, Rust 0.9 percent, Python 0.4 percent, MDX 0.1 percent, Swift 0.1 percent. Below, the technology tags used across the matrix.</desc>
+  <rect width="1200" height="420" rx="18" fill="#0c0c0f"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="418.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">What it's made of</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">by bytes &#183; 27 repos</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">by bytes &#183; 28 repos</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
-  <rect x="56.0" y="88" width="789.2" height="18" rx="4" fill="#ef4444"/>
-  <rect x="847.2" y="88" width="120.9" height="18" rx="4" fill="#f97316"/>
-  <rect x="970.1" y="88" width="85.9" height="18" rx="4" fill="#f59e0b"/>
-  <rect x="1058.1" y="88" width="66.9" height="18" rx="4" fill="#eab308"/>
+  <rect x="56.0" y="88" width="789.0" height="18" rx="4" fill="#ef4444"/>
+  <rect x="847.0" y="88" width="121.0" height="18" rx="4" fill="#f97316"/>
+  <rect x="970.0" y="88" width="86.0" height="18" rx="4" fill="#f59e0b"/>
+  <rect x="1058.0" y="88" width="67.0" height="18" rx="4" fill="#eab308"/>
   <rect x="1127.0" y="88" width="7.3" height="18" rx="4" fill="#84cc16"/>
   <rect x="1136.2" y="88" width="2.3" height="18" rx="4" fill="#22c55e"/>
   <rect x="1140.6" y="88" width="2.0" height="18" rx="4" fill="#10b981"/>
@@ -64,46 +64,48 @@
   <text x="965" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">extension</text>
   <rect x="56" y="272" width="70" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
   <text x="69" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">film</text>
-  <rect x="136" y="272" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="149" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">icons</text>
-  <rect x="227" y="272" width="125" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="240" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">knowledge</text>
-  <rect x="362" y="272" width="103" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="375" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">library</text>
-  <rect x="475" y="272" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="488" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">looks</text>
-  <rect x="566" y="272" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="579" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">macos</text>
-  <rect x="657" y="272" width="70" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="670" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">math</text>
+  <rect x="136" y="272" width="70" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="149" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">game</text>
+  <rect x="216" y="272" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="229" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">icons</text>
+  <rect x="307" y="272" width="125" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="320" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">knowledge</text>
+  <rect x="442" y="272" width="103" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="455" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">library</text>
+  <rect x="555" y="272" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="568" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">looks</text>
+  <rect x="646" y="272" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="659" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">macos</text>
   <rect x="737" y="272" width="70" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="750" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">meta</text>
-  <rect x="817" y="272" width="92" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="830" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">motion</text>
-  <rect x="919" y="272" width="92" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="932" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">nextjs</text>
-  <rect x="1021" y="272" width="92" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="1034" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">photos</text>
-  <rect x="56" y="312" width="114" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="69" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">pipeline</text>
-  <rect x="180" y="312" width="136" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="193" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">playground</text>
-  <rect x="326" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="339" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">swift</text>
-  <rect x="417" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="430" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">tauri</text>
-  <rect x="508" y="312" width="114" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="521" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">template</text>
-  <rect x="632" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="645" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">three</text>
-  <rect x="723" y="312" width="70" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="736" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">tool</text>
-  <rect x="803" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="816" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">tools</text>
-  <rect x="894" y="312" width="48" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="907" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">ui</text>
-  <rect x="952" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="965" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">video</text>
-  <rect x="1043" y="312" width="59" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
-  <text x="1056" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">web</text>
+  <text x="750" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">math</text>
+  <rect x="817" y="272" width="70" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="830" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">meta</text>
+  <rect x="897" y="272" width="92" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="910" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">motion</text>
+  <rect x="999" y="272" width="92" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="1012" y="294" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">nextjs</text>
+  <rect x="56" y="312" width="92" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="69" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">photos</text>
+  <rect x="158" y="312" width="114" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="171" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">pipeline</text>
+  <rect x="282" y="312" width="136" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="295" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">playground</text>
+  <rect x="428" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="441" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">swift</text>
+  <rect x="519" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="532" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">tauri</text>
+  <rect x="610" y="312" width="114" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="623" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">template</text>
+  <rect x="734" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="747" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">three</text>
+  <rect x="825" y="312" width="70" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="838" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">tool</text>
+  <rect x="905" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="918" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">tools</text>
+  <rect x="996" y="312" width="48" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="1009" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">ui</text>
+  <rect x="1054" y="312" width="81" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="1067" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">video</text>
+  <rect x="56" y="352" width="59" height="32" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="69" y="374" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8a8a93">web</text>
 </svg>
