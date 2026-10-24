@@ -17,16 +17,16 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 231 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 232 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**231 releases in the last 28 days**, across 18 projects — 603 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**232 releases in the last 28 days**, across 18 projects — 604 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.156` | 251 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.157` | 252 | TypeScript |
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.33` | 97 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.55` | 95 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.12` | 49 | TypeScript |
