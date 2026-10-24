@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 225 releases across 17 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 228 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**225 releases in the last 28 days**, across 17 projects — 644 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**228 releases in the last 28 days**, across 17 projects — 653 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -30,9 +30,9 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.33` | 200 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.54` | 80 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.12` | 49 | TypeScript |
-| [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.1` | 45 | TypeScript |
-| [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.1` | 15 | TypeScript |
-| [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.1` | 11 | TypeScript |
+| [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.2` | 48 | TypeScript |
+| [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.2` | 18 | TypeScript |
+| [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.2` | 14 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.13` | 5 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.51` | 3 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.14.1` | 2 | TypeScript |
