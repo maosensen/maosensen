@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 232 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 233 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**232 releases in the last 28 days**, across 18 projects — 604 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**233 releases in the last 28 days**, across 18 projects — 612 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -31,8 +31,8 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.55` | 95 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.12` | 49 | TypeScript |
 | [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.2` | 48 | TypeScript |
+| [zeroUI](https://github.com/maosensen/zeroUI) | `ui` `design-system` `nextjs` | `v0.1.1` | 27 | TypeScript |
 | [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.3` | 20 | TypeScript |
-| [zeroUI](https://github.com/maosensen/zeroUI) | `ui` `design-system` `nextjs` | `v0.1.0` | 19 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.2` | 14 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.13` | 5 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.51` | 3 | TypeScript |
@@ -59,7 +59,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 72.7 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 72.8 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
