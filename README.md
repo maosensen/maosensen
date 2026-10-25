@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 232 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 233 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**232 releases in the last 28 days**, across 18 projects — 614 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**233 releases in the last 28 days**, across 18 projects — 617 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -31,7 +31,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.33` | 93 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.12` | 49 | TypeScript |
 | [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.2` | 48 | TypeScript |
-| [zeroUI](https://github.com/maosensen/zeroUI) | `ui` `design-system` `nextjs` | `v0.1.2` | 37 | TypeScript |
+| [zeroUI](https://github.com/maosensen/zeroUI) | `ui` `design-system` `nextjs` | `v0.1.3` | 40 | TypeScript |
 | [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.3` | 20 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.2` | 12 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.13` | 5 | TypeScript |
