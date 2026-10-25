@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 233 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 234 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**233 releases in the last 28 days**, across 18 projects — 617 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**234 releases in the last 28 days**, across 18 projects — 625 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -31,7 +31,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.33` | 93 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.12` | 49 | TypeScript |
 | [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.2` | 48 | TypeScript |
-| [zeroUI](https://github.com/maosensen/zeroUI) | `ui` `design-system` `nextjs` | `v0.1.3` | 40 | TypeScript |
+| [zeroUI](https://github.com/maosensen/zeroUI) | `ui` `design-system` `nextjs` | `v0.1.4` | 48 | TypeScript |
 | [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.3` | 20 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.2` | 12 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.13` | 5 | TypeScript |
@@ -64,7 +64,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 
 ## On the bench right now
 
-**27 features in progress** across yAnimationPlayground, yApis, yAtlas, yCrm, yGenshinColor, yGraphify, yTemplate and zeroUI.
+**26 features in progress** across yAnimationPlayground, yApis, yAtlas, yCrm, yGenshinColor, yGraphify and yTemplate.
 
 ---
 
