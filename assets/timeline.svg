@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 736" role="img" aria-labelledby="tt td">
-  <title id="tt">Release timeline — 233 releases in 28 days</title>
-  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yLookbook: 92, yAtlas: 32, yPulse: 32, yBlocks: 13, yCrm: 13, yStage: 12, zzzUI: 11, yPlotter: 6, yAgentKit: 4, yIso: 4, yArcade: 4, yIsobath: 2, yTemplate: 2, yReel: 2, yDiorama: 2, yDesktopTemplate: 1, yAnimationPlayground: 1.</desc>
+  <title id="tt">Release timeline — 234 releases in 28 days</title>
+  <desc id="td">One horizontal lane per project, ordered by release count. Each dot is a published release, positioned by date across the last 28 days. yLookbook: 92, yAtlas: 32, yPulse: 32, yBlocks: 13, yCrm: 13, yStage: 12, zzzUI: 11, yPlotter: 6, yIso: 5, yAgentKit: 4, yArcade: 4, yIsobath: 2, yTemplate: 2, yReel: 2, yDiorama: 2, yDesktopTemplate: 1, yAnimationPlayground: 1.</desc>
   <rect width="1200" height="736" rx="18" fill="#0c0c0f"/>
   <rect x="0.75" y="0.75" width="1198.5" height="734.5" rx="17.25" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
 
   <text x="56" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="600" fill="#fafafa">Shipping cadence</text>
-  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">233 releases &#183; last 28 days</text>
+  <text x="1144" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8a8a93">234 releases &#183; last 28 days</text>
   <line x1="56" y1="62" x2="1144" y2="62" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <line x1="368.0" y1="78" x2="368.0" y2="658" stroke="#ffffff" stroke-opacity="0.06"/>
@@ -58,14 +58,14 @@
 <circle cx="454.2" cy="330" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yPlotter v0.1.0 · 2026-10-03</title></circle><circle cx="511.7" cy="330" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yPlotter v0.1.2 · 2026-10-05</title></circle><circle cx="1000.3" cy="330" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yPlotter v0.2.0 · 2026-10-22</title></circle><circle cx="1000.3" cy="330" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yPlotter v0.2.1 · 2026-10-22</title></circle><circle cx="1057.8" cy="330" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yPlotter v0.2.2 · 2026-10-24</title></circle><circle cx="1144.0" cy="330" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yPlotter v0.2.3 · 2026-10-27</title></circle>
   <line x1="368" y1="364" x2="1144" y2="364" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="364" r="5" fill="#8a8a93"/>
-  <text x="80" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yAgentKit</text>
-  <text x="342" y="370" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">4</text>
-<circle cx="483.0" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.0.1 · 2026-10-04</title></circle><circle cx="483.0" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.1.0 · 2026-10-04</title></circle><circle cx="741.6" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.1.1 · 2026-10-13</title></circle><circle cx="741.6" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.1.2 · 2026-10-13</title></circle>
+  <text x="80" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yIso</text>
+  <text x="342" y="370" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">5</text>
+<circle cx="1000.3" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.0 · 2026-10-22</title></circle><circle cx="1000.3" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.1 · 2026-10-22</title></circle><circle cx="1057.8" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.2 · 2026-10-24</title></circle><circle cx="1115.3" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.3 · 2026-10-26</title></circle><circle cx="1144.0" cy="364" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.4 · 2026-10-27</title></circle>
   <line x1="368" y1="398" x2="1144" y2="398" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="398" r="5" fill="#8a8a93"/>
-  <text x="80" y="404" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yIso</text>
+  <text x="80" y="404" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yAgentKit</text>
   <text x="342" y="404" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#fafafa">4</text>
-<circle cx="1000.3" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.0 · 2026-10-22</title></circle><circle cx="1000.3" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.1 · 2026-10-22</title></circle><circle cx="1057.8" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.2 · 2026-10-24</title></circle><circle cx="1115.3" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yIso v0.3.3 · 2026-10-26</title></circle>
+<circle cx="483.0" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.0.1 · 2026-10-04</title></circle><circle cx="483.0" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.1.0 · 2026-10-04</title></circle><circle cx="741.6" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.1.1 · 2026-10-13</title></circle><circle cx="741.6" cy="398" r="6" fill="#8a8a93" fill-opacity="0.9"><title>yAgentKit v0.1.2 · 2026-10-13</title></circle>
   <line x1="368" y1="432" x2="1144" y2="432" stroke="#ffffff" stroke-opacity="0.05"/>
   <circle cx="64" cy="432" r="5" fill="#8a8a93"/>
   <text x="80" y="438" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" fill="#e6e6ea">yArcade</text>
