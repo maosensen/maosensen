@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 229 releases across 17 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 230 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**229 releases in the last 28 days**, across 17 projects — 584 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**230 releases in the last 28 days**, across 17 projects — 587 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -34,8 +34,8 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.3` | 20 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.2` | 12 | TypeScript |
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.33` | 10 | TypeScript |
+| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.15.0` | 5 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.51` | 3 | TypeScript |
-| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.14.1` | 2 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.13` | 1 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
