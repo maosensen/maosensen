@@ -17,16 +17,16 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 219 releases across 17 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 220 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**219 releases in the last 28 days**, across 17 projects — 504 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**220 releases in the last 28 days**, across 17 projects — 513 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.161` | 239 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.162` | 248 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.56` | 79 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.2` | 78 | TypeScript |
 | [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.4` | 36 | TypeScript |
@@ -60,7 +60,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 73.6 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 73.5 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
