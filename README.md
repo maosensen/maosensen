@@ -17,20 +17,21 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 215 releases across 16 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 219 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**215 releases in the last 28 days**, across 16 projects — 496 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**219 releases in the last 28 days**, across 17 projects — 504 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.161` | 247 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.161` | 239 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.56` | 79 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.2` | 78 | TypeScript |
-| [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.4` | 43 | TypeScript |
-| [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.3` | 26 | TypeScript |
+| [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.4` | 36 | TypeScript |
+| [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.3` | 27 | TypeScript |
+| [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.3` | 22 | TypeScript |
 | [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.3` | 20 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.15.0` | 3 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
