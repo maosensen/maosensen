@@ -20,18 +20,47 @@ Everything below is generated every day from my own monitoring pipeline — the 
   <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 211 releases across 16 projects in the last 28 days, one lane per project.">
 </p>
 
-**211 releases in the last 28 days**, across 16 projects — 239 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**211 releases in the last 28 days**, across 16 projects — 468 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.164` | 239 | TypeScript |
+| [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.164` | 230 | TypeScript |
+| [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.2` | 78 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.56` | 63 | TypeScript |
+| [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.4` | 33 | TypeScript |
+| [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.3` | 27 | TypeScript |
+| [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.3` | 19 | TypeScript |
+| [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.3` | 16 | TypeScript |
+| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.15.0` | 2 | TypeScript |
+| [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
+| [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
+| [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.6` | 0 | TypeScript |
+| [yDiorama](https://github.com/maosensen/yDiorama) | `library` `film` | `v0.1.4` | 0 | TypeScript |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.13` | 0 | TypeScript |
+| [ytools](https://github.com/maosensen/ytools) | `tools` | `v0.1.0` | 0 | TypeScript |
+| [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.12` | 0 | TypeScript |
+| [yPicker](https://github.com/maosensen/yPicker) | `tool` | `v0.1.0` | 0 | TypeScript |
+| [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.7` | 0 | TypeScript |
+| [yGenshinColor](https://github.com/maosensen/yGenshinColor) | `tool` `color` | `v0.20.1` | 0 | TypeScript |
+| [yClip](https://github.com/maosensen/yClip) | `extension` `browser` | `v0.1.3` | 0 | TypeScript |
+| [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.6` | 0 | TypeScript |
+| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.51` | 0 | TypeScript |
+| [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.3.0` | 0 | HTML |
+| [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.10` | 0 | TypeScript |
+| [yCollections](https://github.com/maosensen/yCollections) | `tool` `knowledge` | `v0.1.10` | 0 | TypeScript |
+| [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.13.1` | 0 | TypeScript |
+| [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.33` | 0 | TypeScript |
+| [yListen](https://github.com/maosensen/yListen) | `desktop` `swift` `macos` | `v0.1.2` | 0 | Swift |
+| [yIsobath](https://github.com/maosensen/yIsobath) | `desktop` `tauri` | `v0.1.1` | 0 | TypeScript |
+| [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.2` | 0 | TypeScript |
+| [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.12` | 0 | TypeScript |
 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 64.7 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 73.4 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
