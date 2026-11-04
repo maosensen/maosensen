@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 184 releases across 20 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 185 releases across 20 projects in the last 28 days, one lane per project.">
 </p>
 
-**184 releases in the last 28 days**, across 20 projects — 213 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**185 releases in the last 28 days**, across 20 projects — 220 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -33,6 +33,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.3` | 18 | TypeScript |
 | [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.3` | 11 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.3` | 11 | TypeScript |
+| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.52` | 7 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.3` | 4 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.7` | 3 | TypeScript |
 | [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.14.0` | 3 | TypeScript |
@@ -48,7 +49,6 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.15.0` | 0 | TypeScript |
 | [yClip](https://github.com/maosensen/yClip) | `extension` `browser` | `v0.1.3` | 0 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.6` | 0 | TypeScript |
-| [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.51` | 0 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.3.0` | 0 | HTML |
 | [yPhotos](https://github.com/maosensen/yPhotos) | `web` `photos` | `v0.1.10` | 0 | TypeScript |
 | [yAtlas](https://github.com/maosensen/yAtlas) | `film` `math` `playground` | `v0.1.33` | 0 | TypeScript |
@@ -61,12 +61,12 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 74.9 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 75.0 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
 
-**26 features in progress** across yAnimationPlayground, yApis, yAtlas, yCrm, yGenshinColor, yGraphify and yTemplate.
+**27 features in progress** across yAnimationPlayground, yApis, yAtlas, yCrm, yGenshinColor, yGraphify and yTemplate.
 
 ---
 
