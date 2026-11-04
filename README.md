@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 170 releases across 17 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 174 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**170 releases in the last 28 days**, across 17 projects — 155 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**174 releases in the last 28 days**, across 17 projects — 166 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -29,13 +29,13 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.165` | 69 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.57` | 34 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.4` | 29 | TypeScript |
-| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.0` | 12 | TypeScript |
+| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.3` | 18 | TypeScript |
 | [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.3` | 11 | TypeScript |
+| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.14` | 5 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.6` | 0 | TypeScript |
 | [yDiorama](https://github.com/maosensen/yDiorama) | `library` `film` | `v0.1.4` | 0 | TypeScript |
-| [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.13` | 0 | TypeScript |
 | [ytools](https://github.com/maosensen/ytools) | `tools` | `v0.1.0` | 0 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.12` | 0 | TypeScript |
 | [yPicker](https://github.com/maosensen/yPicker) | `tool` | `v0.1.0` | 0 | TypeScript |
@@ -61,7 +61,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 74.5 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 74.6 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
