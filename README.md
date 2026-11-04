@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 176 releases across 17 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 177 releases across 17 projects in the last 28 days, one lane per project.">
 </p>
 
-**176 releases in the last 28 days**, across 17 projects — 179 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**177 releases in the last 28 days**, across 17 projects — 190 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -32,6 +32,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.16` | 18 | TypeScript |
 | [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.3` | 18 | TypeScript |
 | [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.3` | 11 | TypeScript |
+| [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.3` | 11 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.6` | 0 | TypeScript |
@@ -56,7 +57,6 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.4` | 0 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.2` | 0 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.12` | 0 | TypeScript |
-| [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.2` | 0 | TypeScript |
 
 ## What it's made of
 
