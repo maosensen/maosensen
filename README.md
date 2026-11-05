@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 179 releases across 20 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 180 releases across 20 projects in the last 28 days, one lane per project.">
 </p>
 
-**179 releases in the last 28 days**, across 20 projects — 222 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**180 releases in the last 28 days**, across 20 projects — 224 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -38,6 +38,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.7` | 3 | TypeScript |
 | [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.14.0` | 3 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.13` | 2 | TypeScript |
+| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.16.0` | 2 | TypeScript |
 | [yCollections](https://github.com/maosensen/yCollections) | `tool` `knowledge` | `v0.1.11` | 2 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
@@ -46,7 +47,6 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yPicker](https://github.com/maosensen/yPicker) | `tool` | `v0.1.0` | 0 | TypeScript |
 | [yIcon](https://github.com/maosensen/yIcon) | `ui` `icons` | `v3.2.7` | 0 | TypeScript |
 | [yGenshinColor](https://github.com/maosensen/yGenshinColor) | `tool` `color` | `v0.20.1` | 0 | TypeScript |
-| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.15.0` | 0 | TypeScript |
 | [yClip](https://github.com/maosensen/yClip) | `extension` `browser` | `v0.1.3` | 0 | TypeScript |
 | [yReel](https://github.com/maosensen/yReel) | `tool` `video` | `v0.4.6` | 0 | TypeScript |
 | [yMotion](https://github.com/maosensen/yMotion) | `video` `motion` | `v0.3.0` | 0 | HTML |
