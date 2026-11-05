@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 180 releases across 20 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 185 releases across 20 projects in the last 28 days, one lane per project.">
 </p>
 
-**180 releases in the last 28 days**, across 20 projects — 224 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**185 releases in the last 28 days**, across 20 projects — 238 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -28,17 +28,17 @@ Everything below is generated every day from my own monitoring pipeline — the 
 |---|---|---|---|---|
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.165` | 66 | TypeScript |
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.58` | 44 | TypeScript |
-| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.4` | 27 | TypeScript |
+| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.8` | 39 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.16` | 18 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.4` | 18 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.5` | 17 | TypeScript |
 | [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.3` | 11 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.52` | 7 | TypeScript |
+| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.16.1` | 4 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.3` | 4 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.7` | 3 | TypeScript |
 | [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.14.0` | 3 | TypeScript |
 | [yApis](https://github.com/maosensen/yApis) | `api` | `v0.2.13` | 2 | TypeScript |
-| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.16.0` | 2 | TypeScript |
 | [yCollections](https://github.com/maosensen/yCollections) | `tool` `knowledge` | `v0.1.11` | 2 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
