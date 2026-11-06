@@ -17,10 +17,10 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 183 releases across 19 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 184 releases across 19 projects in the last 28 days, one lane per project.">
 </p>
 
-**183 releases in the last 28 days**, across 19 projects — 266 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**184 releases in the last 28 days**, across 19 projects — 268 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
@@ -31,7 +31,7 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.58` | 42 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.7` | 22 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.16` | 18 | TypeScript |
-| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.17.0` | 7 | TypeScript |
+| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.17.1` | 9 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.52` | 7 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.3` | 4 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.7` | 3 | TypeScript |
