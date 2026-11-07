@@ -17,17 +17,17 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 188 releases across 19 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 189 releases across 19 projects in the last 28 days, one lane per project.">
 </p>
 
-**188 releases in the last 28 days**, across 19 projects — 199 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**189 releases in the last 28 days**, across 19 projects — 203 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
 | [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.17` | 142 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.60` | 57 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.61` | 61 | TypeScript |
 
 ## What it's made of
 
