@@ -17,17 +17,17 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 189 releases across 19 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 194 releases across 19 projects in the last 28 days, one lane per project.">
 </p>
 
-**189 releases in the last 28 days**, across 19 projects — 290 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**194 releases in the last 28 days**, across 19 projects — 354 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.17` | 146 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.61` | 62 | TypeScript |
+| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.24` | 211 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.61` | 61 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.7` | 22 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.16` | 18 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.166` | 12 | TypeScript |
@@ -61,13 +61,13 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 79.0 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 80.1 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
 
-**32 features in progress** across yAnimationPlayground, yApis, yAtlas, yCrm, yGenshinColor, yGraphify, yPulse, yTemplate and yTies.
+**31 features in progress** across yAnimationPlayground, yApis, yAtlas, yCrm, yGenshinColor, yGraphify, yPulse, yTemplate and yTies.
 
 ---
 
-*This page rebuilds itself every day from [yPulse](https://github.com/maosensen/yPulse), my own project-matrix monitor — the release history, the language split and the feature counts all come from snapshots it collects. Last built 2026-11-08.*
+*This page rebuilds itself every day from [yPulse](https://github.com/maosensen/yPulse), my own project-matrix monitor — the release history, the language split and the feature counts all come from snapshots it collects. Last built 2026-11-09.*
