@@ -17,17 +17,17 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 191 releases across 19 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 192 releases across 19 projects in the last 28 days, one lane per project.">
 </p>
 
-**191 releases in the last 28 days**, across 19 projects — 408 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**192 releases in the last 28 days**, across 19 projects — 413 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
 | [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.35` | 264 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.64` | 70 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.65` | 75 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.16` | 18 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.7` | 17 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.17.1` | 9 | TypeScript |
