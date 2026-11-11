@@ -17,22 +17,23 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 194 releases across 19 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 192 releases across 19 projects in the last 28 days, one lane per project.">
 </p>
 
-**194 releases in the last 28 days**, across 19 projects — 426 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**192 releases in the last 28 days**, across 19 projects — 464 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.35` | 264 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.66` | 81 | TypeScript |
+| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.45` | 295 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.66` | 82 | TypeScript |
 | [yBlocks](https://github.com/maosensen/yBlocks) | `ui` `blocks` | `v0.102.16` | 18 | TypeScript |
 | [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.7` | 17 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.167` | 16 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.17.1` | 9 | TypeScript |
 | [yAnimationPlayground](https://github.com/maosensen/yAnimationPlayground) | `playground` `animation` | `v0.8.52` | 7 | TypeScript |
+| [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.6` | 6 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.3` | 4 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.7` | 3 | TypeScript |
 | [yCrmTemplate](https://github.com/maosensen/yCrmTemplate) | `template` `crm` `nextjs` | `v0.14.0` | 3 | TypeScript |
@@ -54,7 +55,6 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yIsobath](https://github.com/maosensen/yIsobath) | `desktop` `tauri` | `v0.1.1` | 0 | TypeScript |
 | [yPlotter](https://github.com/maosensen/yPlotter) | `film` `library` | `v0.2.4` | 0 | TypeScript |
 | [yArcade](https://github.com/maosensen/yArcade) | `game` `three` `library` | `v0.1.3` | 0 | TypeScript |
-| [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.3` | 0 | TypeScript |
 | [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.4` | 0 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.13` | 0 | TypeScript |
 
@@ -70,4 +70,4 @@ Everything below is generated every day from my own monitoring pipeline — the 
 
 ---
 
-*This page rebuilds itself every day from [yPulse](https://github.com/maosensen/yPulse), my own project-matrix monitor — the release history, the language split and the feature counts all come from snapshots it collects. Last built 2026-11-10.*
+*This page rebuilds itself every day from [yPulse](https://github.com/maosensen/yPulse), my own project-matrix monitor — the release history, the language split and the feature counts all come from snapshots it collects. Last built 2026-11-11.*
