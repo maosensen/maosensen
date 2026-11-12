@@ -17,17 +17,17 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 181 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 182 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**181 releases in the last 28 days**, across 18 projects — 397 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**182 releases in the last 28 days**, across 18 projects — 407 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
 | [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.50` | 305 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.66` | 64 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.67` | 74 | TypeScript |
 | [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.17.1` | 9 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.167` | 8 | TypeScript |
 | [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.6` | 6 | TypeScript |
