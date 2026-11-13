@@ -17,21 +17,20 @@ Everything below is generated every day from my own monitoring pipeline — the 
 ## Shipping cadence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 182 releases across 18 projects in the last 28 days, one lane per project.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/timeline.svg" width="100%" alt="Release timeline: 176 releases across 18 projects in the last 28 days, one lane per project.">
 </p>
 
-**182 releases in the last 28 days**, across 18 projects — 407 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
+**176 releases in the last 28 days**, across 18 projects — 381 commits in the last 7. Every one of these is a real tagged release with a changelog, not a version bump.
 
 ## The matrix
 
 | Project | Tags | Latest | Commits 7d | Main language |
 |---|---|---|---|---|
-| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.50` | 305 | TypeScript |
-| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.67` | 74 | TypeScript |
-| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.17.1` | 9 | TypeScript |
+| [yTies](https://github.com/maosensen/yTies) | `game` `content` | `v0.1.55` | 291 | TypeScript |
+| [yPulse](https://github.com/maosensen/yPulse) | `meta` `pipeline` | `v0.5.67` | 71 | TypeScript |
 | [yLookbook](https://github.com/maosensen/yLookbook) | `ui` `looks` | `v0.2.167` | 8 | TypeScript |
 | [yCarto](https://github.com/maosensen/yCarto) | `map` `library` | `v0.1.6` | 6 | TypeScript |
-| [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.7` | 5 | TypeScript |
+| [yStage](https://github.com/maosensen/yStage) | `tool` | `v2.17.1` | 5 | TypeScript |
 | [yAssets](https://github.com/maosensen/yAssets) | `desktop` `tauri` | `v0.1.38` | 0 | TypeScript |
 | [yDesktopTemplate](https://github.com/maosensen/yDesktopTemplate) | `template` `tauri` | `v0.2.0` | 0 | TypeScript |
 | [yTemplate](https://github.com/maosensen/yTemplate) | `template` `nextjs` | `v0.2.7` | 0 | TypeScript |
@@ -57,11 +56,12 @@ Everything below is generated every day from my own monitoring pipeline — the 
 | [yIso](https://github.com/maosensen/yIso) | `film` `three` `library` | `v0.3.4` | 0 | TypeScript |
 | [yAgentKit](https://github.com/maosensen/yAgentKit) | `agent` `nextjs` | `v0.1.3` | 0 | TypeScript |
 | [yCrm](https://github.com/maosensen/yCrm) | `crm` `nextjs` `backend` | `v0.1.13` | 0 | TypeScript |
+| [zzzUI](https://github.com/maosensen/zzzUI) | `ui` `design-system` `nextjs` | `v0.2.7` | 0 | TypeScript |
 
 ## What it's made of
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 80.3 percent, with the technology tags used across the projects.">
+  <img src="https://raw.githubusercontent.com/maosensen/maosensen/main/assets/stack.svg" width="100%" alt="Language composition across the matrix, TypeScript at 80.6 percent, with the technology tags used across the projects.">
 </p>
 
 ## On the bench right now
@@ -70,4 +70,4 @@ Everything below is generated every day from my own monitoring pipeline — the 
 
 ---
 
-*This page rebuilds itself every day from [yPulse](https://github.com/maosensen/yPulse), my own project-matrix monitor — the release history, the language split and the feature counts all come from snapshots it collects. Last built 2026-11-12.*
+*This page rebuilds itself every day from [yPulse](https://github.com/maosensen/yPulse), my own project-matrix monitor — the release history, the language split and the feature counts all come from snapshots it collects. Last built 2026-11-13.*
